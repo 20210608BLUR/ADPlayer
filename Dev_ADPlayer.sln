@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev_ADPlayer", "Dev_ADPlayer\Dev_ADPlayer.csproj", "{EE169CDE-7DAB-4D7E-9381-BC388CB6B190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE169CDE-7DAB-4D7E-9381-BC388CB6B190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE169CDE-7DAB-4D7E-9381-BC388CB6B190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE169CDE-7DAB-4D7E-9381-BC388CB6B190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE169CDE-7DAB-4D7E-9381-BC388CB6B190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E10A6250-06C9-413A-A795-56FAC28EC1C8}
+	EndGlobalSection
+EndGlobal
